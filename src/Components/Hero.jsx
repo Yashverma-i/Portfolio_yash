@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Navbar'
-import TypingAnimation from './TYpingAnimation'
+import TypingAnimation from './TypingAnimation'
 
 
 const Hero = () => {
