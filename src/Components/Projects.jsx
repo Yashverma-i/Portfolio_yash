@@ -10,10 +10,10 @@ const ProjectList = [
   },
   {
     id: 2,
-    image: './Memory_Game.gif',
-    title: 'Memory Game',
-    description: 'A fun and interactive memory card game built with React to test concentration skills.',
-    link: 'https://memory-game-rose-two.vercel.app'
+    image: './food.gif',
+    title: 'Food App React',
+    description: 'A food delivery application built with React, featuring a user-friendly interface and real-time updates.',
+    link: 'https://food-app-react-yash.vercel.app'
   },
   {
     id: 3,
